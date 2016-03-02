@@ -1,5 +1,3 @@
-# cpp-codes
-Cpp lab programs. Basic ones you need to know!
 #include<iostream>
 using namespace std;
 int  main()
